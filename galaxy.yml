@@ -1,0 +1,16 @@
+namespace: engonzal
+name: proxmox
+version: 1.0.0
+readme: README.md
+authors:
+  - Noe Gonzalez <noe@engonzal.com>
+description: Collection of roles to use with Proxmox Virtualization Environment.  These were created to administer Proxmox servers in a Homelab.
+license:
+  - BSD
+license_file: ''
+tags:
+  - proxmox
+  - virtualization
+  - hypervisor
+dependencies: {}
+repository: https://github.com/engonzal/engonzal.proxmox

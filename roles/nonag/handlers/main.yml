@@ -1,0 +1,7 @@
+---
+# handlers file for nonag
+
+- name: restart pveproxy
+  ansible.builtin.service:
+    name: pveproxy.service
+    state: restarted
