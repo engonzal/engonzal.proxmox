@@ -6,7 +6,7 @@ authors:
   - Noe Gonzalez <noe@engonzal.com>
 description: Collection of roles to use with Proxmox Virtualization Environment.  These were created to administer Proxmox servers in a Homelab.
 license:
-  - BSD
+  - BSD-2-Clause
 license_file: ''
 tags:
   - proxmox

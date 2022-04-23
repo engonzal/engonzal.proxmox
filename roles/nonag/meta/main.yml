@@ -2,7 +2,7 @@ galaxy_info:
   role_name: nonag
   author: engonzal
   description: Remove Proxmox Subscription nag window that prompts after login
-  license: BSD
+  license: BSD-2-Clause
   company: buildahomelab.com
   min_ansible_version: 2.7
   galaxy_tags:
